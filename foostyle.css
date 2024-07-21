@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(230, 215, 158);
+    font-weight: 400px;
+    font-size: paragraph 16px;
+}
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%); 
+}
+
+.food{
+    width:700px;
+    height:1160px;
+    padding: center;
+    background-color: white;
+    margin-left:350px;
+    margin-right:600px;
+    text-indent: 5px ;
+    border-radius: 5px;
+}
+.img{
+    margin-left:45px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.oba{
+    width: 675px; 
+    height: 100px;
+    background-color:rgb(236, 226, 185);
+    margin-left: 13px;
+    border-radius: 5px;
+}
+
+.sor{
+    width: 675px; 
+    height: 100px;
+    background-color:rgb(236, 226, 185);
+    margin-left: 13px;
+    border-radius: 5px;
+}
+
+h2{
+    color: purple;
+}
+    
+.Fat{
+    width: 675px; 
+    height: 230px;
+    background-color:rgb(236, 226, 185);
+    margin-left: 13px;
+    border-radius: 5px;
+}
+
+.fAt{
+    width: 675px; 
+    height: 135px;
+    background-color:rgb(236, 226, 185);
+    margin-left: 13px;
+    border-radius: 5px;
+}
+
+.CEE{
+    width: 675px; 
+    height: 250px;
+    background-color:rgb(236, 226, 185);
+    margin-left: 13px;
+    border-radius: 5px;
+}
